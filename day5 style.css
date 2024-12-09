@@ -1,0 +1,14 @@
+.container {
+    width: 1500px;
+    height: 500px;
+    margin: 15px;
+}
+img {
+    width: 100px;
+}
+.item1 , .item2 , .ithem3 , .ithm4 , .item5 , .item6 , .item7 , .item8 {
+    width: 300px;
+    display: inline-block;
+    margin: 10px;
+    position: relative;
+}
